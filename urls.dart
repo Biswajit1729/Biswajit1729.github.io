@@ -1,9 +1,8 @@
 
 
 
-function main(){
-var today = new Date();
-var dd = String(today.getDate()).padStart(2, '0');
+Future fetchURL() async{
+int day = int.parse(DateTime.now().toString().substring(8, 10));
 if(dd <= 15){
     return {"t":"https://tutor-socket-2.herokuapp.com","o":"https://otrcall01.herokuapp.com/"};
 }else{
