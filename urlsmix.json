@@ -1,7 +1,7 @@
 {
    "u1":{
       "t":"https://tutor-socket-1.herokuapp.com",
-      "o":"https://opentalk.onrender.com",
+      "o":"https://otrcall01.herokuapp.com",
       "p":"https://opentalk-paytm-server.herokuapp.com/generateTxnToken",
       "w":"wss://livekit.iloveopentalk.com"
      
