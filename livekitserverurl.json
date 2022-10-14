@@ -1,10 +1,10 @@
 {
    "u1":{
-      "socketURL":"https://opentalk-b4bf6.ew.r.appspot.com",
+      "socketURL":"https://otserveralt.herokuapp.com/",
       "liveKitURL":"wss://livekit.iloveopentalk.com"
    },
    "u2":{     
-      "socketURL":"https://opentalk-b4bf6.ew.r.appspot.com",
+      "socketURL":"https://otserveralt.herokuapp.com/",
       "liveKitURL":"wss://livekit.iloveopentalk.com"
    }
 }
