@@ -1,5 +1,5 @@
 {
-"socketURL":"https://jeetot.herokuapp.com/",
+"socketURL":"https://otserveralt.herokuapp.com/",
 "liveKitURL":"wss://livekit.iloveopentalk.com",
 "subscription_price":990,
 "version":"1.9.1",
@@ -8,12 +8,8 @@
         "image": "https://img.youtube.com/vi/rKUU97xyKtI/mqdefault.jpg",
         "title": "Hello #opentalk army let's talk   ",
         "url":"https://youtu.be/rKUU97xyKtI"
-    },
-  {
-        "image": "https://img.youtube.com/vi/rKUU97xyKtI/mqdefault.jpg",
-        "title": "Hello #opentalk army let's talk   ",
-        "url":"https://youtu.be/rKUU97xyKtI"
     }
+  
 ]
   
   
