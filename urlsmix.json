@@ -8,7 +8,7 @@
    },
    "u2":{
       "t":"https://toppickalt.herokuapp.com/",
-      "o":"https://jeetot.herokuapp.com/",
+      "o":"https://otrcall02.herokuapp.com",
       "p":"https://opentalk-paytm-server.herokuapp.com/generateTxnToken",
       "w":"wss://livekit.iloveopentalk.com"
    }
