@@ -1,5 +1,5 @@
 {
-"socketURL":"https://otserveralt.herokuapp.com/",
+"socketURL":"https://btserve.herokuapp.com/",
 "liveKitURL":"wss://livekit.iloveopentalk.com",
 "subscription_price":990,
 "version":"1.9.1",
