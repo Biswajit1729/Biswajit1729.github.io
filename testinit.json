@@ -1,1 +1,16 @@
-{}
+{
+"socketURL":"https://btserve.herokuapp.com/",
+"liveKitURL":"wss://livekit.iloveopentalk.com",
+"subscription_price":990,
+"version":"1.9.1",
+"youtube":[
+    {
+        "image": "https://img.youtube.com/vi/rKUU97xyKtI/mqdefault.jpg",
+        "title": "Hello #opentalk army let's talk   ",
+        "url":"https://youtu.be/rKUU97xyKtI"
+    }
+  
+]
+  
+  
+}
