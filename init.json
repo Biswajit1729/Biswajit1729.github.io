@@ -1,8 +1,8 @@
 {
 "socketURL":"https://otlivekit.herokuapp.com",
-"liveKitURL":"wss://opentalk1.livekit.cloud",
+"liveKitURL":"wss://otlive.livekit.cloud",
 "subscription_price":990,
-"version":"1.9.1",
+"version":"1.9.5",
 "youtube":[
     {
         "image": "https://img.youtube.com/vi/rKUU97xyKtI/mqdefault.jpg",
