@@ -1,5 +1,5 @@
 {
-"socketURL":"http://192.168.10.49:3000",
+"socketURL":"http://192.168.77.49:3000",
 "liveKitURL":"wss://opentalk1.livekit.cloud",
 "subscription_price":990,
 "version":"1.9.1",
