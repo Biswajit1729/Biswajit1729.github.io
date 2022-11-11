@@ -1,0 +1,16 @@
+{
+"socketURL":"http://192.168.77.49:3000",
+"liveKitURL":"wss://opentalk1.livekit.cloud",
+"subscription_price":990,
+"version":"1.9.5",
+"youtube":[
+    {
+        "image": "https://img.youtube.com/vi/rKUU97xyKtI/mqdefault.jpg",
+        "title": "Hello #opentalk army let's talk   ",
+        "url":"https://youtu.be/rKUU97xyKtI"
+    }
+  
+]
+  
+  
+}
