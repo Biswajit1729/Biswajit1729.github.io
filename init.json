@@ -1,8 +1,9 @@
 {
-"socketURL":"https://otrcall02.herokuapp.com",
+"socketURL":"https://otrcallmix.herokuapp.com",
 "liveKitURL":"wss://opentalk1.livekit.cloud",
 "subscription_price":990,
-"version":"1.9.5",
+"version":"1.9.6",
+"buildNumber":80,
 "youtube":[
     {
         "image": "https://img.youtube.com/vi/rKUU97xyKtI/mqdefault.jpg",
