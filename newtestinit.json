@@ -1,5 +1,5 @@
 {
-"socketURL":"https://otrcallmix.herokuapp.com",
+"socketURL":"https://opentalk-b4bf6.ew.r.appspot.com",
 "liveKitURL":"wss://opentalk1.livekit.cloud",
 "subscription_price":990,
 "version":"1.9.7",
