@@ -1,6 +1,6 @@
 {
 "socketURL":"https://server-cheeta.onrender.com",
-"liveKitURL":"wss://opentalk1.livekit.cloud",
+"liveKitURL":"wss://btalk.livekit.cloud",
 "subscription_price":990,
 "version":"1.9.7",
 "buildNumber":80,
