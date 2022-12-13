@@ -1,5 +1,5 @@
 {
-"socketURL":"http://192.168.11.49:3000",
+"socketURL":"https://server-cheeta.onrender.com",
 "liveKitURL":"wss://btalk.livekit.cloud",
 "subscription_price":990,
 "version":"1.9.7",
