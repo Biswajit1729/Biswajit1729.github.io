@@ -1,24 +1,14 @@
 {
-"socketURL":"http://192.168.11.49:3000",
+"socketURL":"https://opentalk-b4bf6.ew.r.appspot.com/",
 "liveKitURL":"wss://btalk.livekit.cloud",
 "subscription_price":990,
 "version":"2.0.0",
 "buildNumber":81,
 "youtube":[
     {
-        "image": "https://kinsta.com/wp-content/uploads/2016/09/disable-emojis-1.png",
-        "title": "Remove emoji  ",
-        "url":"https://www.youtube.com/shorts/5SNDK4FOk5I"
-    },
-    {
         "image": "https://img.youtube.com/vi/rKUU97xyKtI/mqdefault.jpg",
         "title": "Hello #opentalk army let's talk   ",
         "url":"https://youtu.be/rKUU97xyKtI"
-    },
-     {
-        "image": "https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8dXBkYXRlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "title": "Update the app ",
-        "url":"https://www.youtube.com/watch?v=E9sTsdKqSuc"
     }
   
 ]
