@@ -1,6 +1,6 @@
 {
 "socketURL":"http://server.iloveopentalk.com/",
-"liveKitURL":"wss://opentalk1.livekit.cloud",
+"liveKitURL":"wss://btalk.livekit.cloud",
 "subscription_price":990,
 "version":"1.9.6",
 "buildNumber":83,
