@@ -1,5 +1,5 @@
 {
-"socketURL":"https://opentalk-b4bf6.ew.r.appspot.com/",
+"socketURL":"https://server.iloveopentalk.com/",
 "liveKitURL":"wss://btalk.livekit.cloud",
 "subscription_price":990,
 "version":"2.0.0",
