@@ -1,0 +1,29 @@
+{
+"socketURL":"https://load.iloveopentalk.com",
+"liveKitURL":"wss://btalk.livekit.cloud",
+"subscription_price":990,
+"version":"2.1.0",
+"buildNumber":90,
+"youtube":[
+    {
+        "image": "https://img.youtube.com/vi/rKUU97xyKtI/mqdefault.jpg",
+        "title": "Hello #opentalk army let's talk   ",
+        "url":"https://youtu.be/rKUU97xyKtI"
+    },
+    {
+        "image": "https://img.youtube.com/vi/rKUU97xyKtI/mqdefault.jpg",
+        "title": "Hello #opentalk army let's talk   ",
+        "url":"https://youtu.be/rKUU97xyKtI"
+    },
+    {
+        "image": "https://img.youtube.com/vi/rKUU97xyKtI/mqdefault.jpg",
+        "title": "Hello #opentalk army let's talk   ",
+        "url":"https://youtu.be/rKUU97xyKtI"
+    }
+  
+]
+
+  
+}
+
+
