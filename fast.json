@@ -1,9 +1,9 @@
 {
 "socketURL":"https://load.iloveopentalk.com/",
 "liveKitURL":"wss://btalk.livekit.cloud",
-"subscription_price":599,
+"subscription_price":990,
 "version":"2.1.1",
-"buildNumber":96,
+"buildNumber":97,
 "youtube":[
     {
         "image": "https://img.youtube.com/vi/gNQNt8UyXSY/sddefault.jpg",
