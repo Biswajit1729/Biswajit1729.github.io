@@ -1,5 +1,5 @@
 {
-"socketURL":"http://192.168.40.49:3006",
+"socketURL":"https://i.iloveopentalk.com/",
 "liveKitURL":"wss://btalk.livekit.cloud",
 "subscription_price":990,
 "version":"2.1.5",
