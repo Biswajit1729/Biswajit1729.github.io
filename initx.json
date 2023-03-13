@@ -1,5 +1,5 @@
 {
-"socketURL":["https://i.iloveopentalk.com/","https://o.iloveopentalk.com/","https://c.iloveopentalk.com/"],
+"socketURL":["https://i.iloveopentalk.com/","https://o.iloveopentalk.com/"],
 "liveKitURL":"wss://btalk.livekit.cloud",
 "subscription_price":990,
 "version":"2.1.5",
