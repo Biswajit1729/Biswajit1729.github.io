@@ -3,7 +3,7 @@
       "host":"45.79.126.69",
       "port":6379
    },
-   "tokenURL":"https://cloudy-tuna-loafers.cyclic.app/",
+   "tokenURL":"http://192.168.145.49:3007",
    "liveKitURL":"wss://btalk.livekit.cloud",
    "subscription_price":990,
    "version":"2.1.6",
