@@ -1,7 +1,7 @@
 {
    "redisURL":{
-      "host":"redis-do-user-14092112-0.b.db.ondigitalocean.com",
-      "port":25061
+      "host":"redis-10666.c301.ap-south-1-1.ec2.cloud.redislabs.com",
+      "port":10666
    },
    "tokenURL":"https://glorious-jade-pronghorn.cyclic.app/",
    "liveKitURL":"wss://ot-dev.livekit.cloud",
