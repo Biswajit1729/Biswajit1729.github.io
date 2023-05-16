@@ -1,9 +1,9 @@
 {
    "redisURL":{
-      "host":"redis-do-user-14092112-0.b.db.ondigitalocean.com",
-      "port":25061
+      "host":"165.232.177.32",
+      "port":6379
    },
-   "tokenURL":"https://glorious-jade-pronghorn.cyclic.app/",
+   "tokenURL":"https://token.iloveopentalk.com",
    "liveKitURL":"wss://ot-dev.livekit.cloud",
    "subscription_price":990,
    "version":"2.1.6",
