@@ -3,7 +3,7 @@
       "host":"165.232.177.32",
       "port":6379
    },
-   "tokenURL":"https://token.iloveopentalk.com",
+   "tokenURL":"https://cloudy-tuna-loafers.cyclic.app",
    "liveKitURL":"wss://btalk.livekit.cloud",
    "subscription_price":990,
    "version":"2.1.6",
