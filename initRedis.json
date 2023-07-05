@@ -7,5 +7,6 @@
    "liveKitURL":"wss://ot-dev.livekit.cloud",
    "subscription_price":990,
    "version":"2.1.6",
-   "buildNumber":105
+   "buildNumber":105,
+   "altPinnedLink":"https://iloveopentalk.com/"
 }
