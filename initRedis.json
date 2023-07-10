@@ -1,7 +1,7 @@
 {
    "redisURL":{
-      "host":"rediss://default:AVNS_haBXtnsp_KuaxLjVOQe@db-redis-do-user-14357295-0.b.db.ondigitalocean.com:25061",
-      "port":25061
+      "host":"167.71.226.225",
+      "port":6379
    },
    "tokenURL":"https://cloudy-tuna-loafers.cyclic.app",
    "liveKitURL":"wss://ot-dev.livekit.cloud",
