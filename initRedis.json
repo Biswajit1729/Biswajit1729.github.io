@@ -4,7 +4,8 @@
       "port":6379
    },
    "tokenURL":"https://cloudy-tuna-loafers.cyclic.app",
-   "liveKitURL":"wss://ot-dev.livekit.cloud",
+   "liveKitURL":"wss://btalk.livekit.cloud",
+   "liveKitDisconnectURL":"wss://ot-dev.livekit.cloud",
    "subscription_price":990,
    "version":"2.1.6",
    "buildNumber":105,
