@@ -6,6 +6,7 @@
    "tokenURL":"https://cloudy-tuna-loafers.cyclic.app",
    "liveKitURL":"wss://btalk.livekit.cloud",
    "liveKitDisconnectURL":"wss://ot-dev.livekit.cloud",
+   "webhookURL":"https://glorious-jade-pronghorn.cyclic.app",
    "subscription_price":990,
    "version":"2.1.6",
    "buildNumber":105,
