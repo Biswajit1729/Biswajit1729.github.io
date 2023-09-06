@@ -2,7 +2,7 @@
 "socketURL":["https://u.iloveopentalk.com"],
 "liveKitURL":"wss://btalk.livekit.cloud",
 "subscription_price":990,
-"version":"2.2.0",
-"buildNumber":117,
+"version":"2.1.6",
+"buildNumber":105,
 "youtube":[]
 }
