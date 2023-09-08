@@ -7,7 +7,7 @@
    "liveKitURL":"wss://btalk.livekit.cloud",
    "liveKitDisconnectURL":"wss://ot-dev.livekit.cloud",
    "subscription_price":990,
-   "version":"2.1.6",
-   "buildNumber":105,
+   "version":"2.2.1",
+   "buildNumber":118,
    "altPinnedLink":"https://iloveopentalk.com/"
 }
