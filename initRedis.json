@@ -7,7 +7,7 @@
    "liveKitURL":"wss://btalk.livekit.cloud",
    "liveKitDisconnectURL":"wss://ot-dev.livekit.cloud",
    "subscription_price":990,
-   "version":"2.2.2",
-   "buildNumber":123,
+   "version":"2.2.3",
+   "buildNumber":124,
    "altPinnedLink":"https://play.google.com/store/apps/details?id=com.jeetproductions.opentalk"
 }
