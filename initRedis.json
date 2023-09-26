@@ -10,5 +10,15 @@
    "version":"2.2.3",
    "buildNumber":124,
    "altPinnedLink":"https://play.google.com/store/apps/details?id=com.jeetproductions.opentalk",
-   "emojiUrls":["https://biswajit1729.github.io/emoji/crying.png","https://biswajit1729.github.io/emoji/love.png"]
+   "emojiUrls":[
+      "https://biswajit1729.github.io/emoji/crying.png",
+      "https://biswajit1729.github.io/emoji/love.png",
+      "https://biswajit1729.github.io/emoji/clapping.png",
+      "https://biswajit1729.github.io/emoji/poo.png",
+      "https://biswajit1729.github.io/emoji/sunglasses.png",
+      "https://biswajit1729.github.io/emoji/tears.png",
+       "https://biswajit1729.github.io/emoji/up.png",
+       "https://biswajit1729.github.io/emoji/huge.png"
+   
+   ]
 }
