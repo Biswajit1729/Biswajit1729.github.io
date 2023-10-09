@@ -3,7 +3,7 @@
       "host":"167.71.226.225",
       "port":6379
    },
-   "tokenURL":"https://api.iloveopentalk.com/",
+   "tokenURL":"https://glorious-jade-pronghorn.cyclic.app",
    "liveKitURL":"wss://btalk.livekit.cloud",
    "liveKitDisconnectURL":"wss://ot-dev.livekit.cloud",
    "subscription_price":990,
