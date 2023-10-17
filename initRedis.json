@@ -7,8 +7,8 @@
    "liveKitURL":"wss://btalk.livekit.cloud",
    "liveKitDisconnectURL":"wss://ot-dev.livekit.cloud",
    "subscription_price":990,
-   "version":"2.2.4",
-   "buildNumber":125,
+   "version":"2.3.0",
+   "buildNumber":127,
    "altPinnedLink":"",
    "emojiUrls":[
       "https://biswajit1729.github.io/emoji/crying.png",
