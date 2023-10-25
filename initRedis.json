@@ -4,7 +4,7 @@
       "port":6379
    },
    "tokenURL":"https://token.opentalk.club",
-   "liveKitURL":"wss://btalk.livekit.cloud",
+   "liveKitURL":"wss://ot-dev.livekit.cloud",
    "liveKitURL2":"wss://ot-dev.livekit.cloud",
    "liveKitDisconnectURL":"wss://ot-dev.livekit.cloud",
    "subscription_price":990,
