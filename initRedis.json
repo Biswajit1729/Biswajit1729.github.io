@@ -5,6 +5,7 @@
    },
    "tokenURL":"https://token.opentalk.club",
    "liveKitURL":"wss://btalk.livekit.cloud",
+   "liveKitURL2":"wss://ot-dev.livekit.cloud",
    "liveKitDisconnectURL":"wss://ot-dev.livekit.cloud",
    "subscription_price":990,
    "version":"2.3.0",
