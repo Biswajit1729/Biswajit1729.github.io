@@ -1,8 +1,41 @@
 {
-"socketURL":["https://u.iloveopentalk.com"],
-"liveKitURL":"wss://btalk.livekit.cloud",
-"subscription_price":990,
-"version":"2.1.6",
-"buildNumber":105,
-"youtube":[]
+   "redisURL":{
+      "host":"167.71.226.225",
+      "port":6379
+   },
+   "tokenURL":"https://token.opentalk.club",
+   "liveKitURL":"wss://ot-dev.livekit.cloud",
+   "liveKitURL2":"wss://ot-dev.livekit.cloud",
+   "liveKitDisconnectURL":"wss://ot-dev.livekit.cloud",
+   "subscription_price":990,
+   "version":"2.5.0",
+   "buildNumber":130,
+   "altPinnedLink":"https://opentalk.club/",
+   "emojiUrls":[
+      "https://biswajit1729.github.io/emoji/crying.png",
+      "https://biswajit1729.github.io/emoji/love.png",
+      "https://biswajit1729.github.io/emoji/sunglasses.png",
+      "https://biswajit1729.github.io/emoji/tears.png",
+      "https://biswajit1729.github.io/emoji/angry2.png",
+      "https://biswajit1729.github.io/emoji/boring.png",
+      "https://biswajit1729.github.io/emoji/emoticon.png",
+      "https://biswajit1729.github.io/emoji/fearful.png",
+      "https://biswajit1729.github.io/emoji/ignore.png",
+      "https://biswajit1729.github.io/emoji/pirate.png",
+      "https://biswajit1729.github.io/emoji/sad.png",
+      "https://biswajit1729.github.io/emoji/dollar.png",
+      "https://biswajit1729.github.io/emoji/anger.png",
+      "https://biswajit1729.github.io/emoji/cute.png",
+
+      "https://biswajit1729.github.io/emoji/+1.png",
+      "https://biswajit1729.github.io/emoji/-1.png",
+      "https://biswajit1729.github.io/emoji/heart_eyes.png",
+      "https://biswajit1729.github.io/emoji/tada.png",
+      "https://biswajit1729.github.io/emoji/v.png",
+      "https://biswajit1729.github.io/emoji/wave.png",
+      "https://biswajit1729.github.io/emoji/disappointed_relieved.png",
+      "https://biswajit1729.github.io/emoji/zipper_mouth_face.png"
+
+   
+   ]
 }
