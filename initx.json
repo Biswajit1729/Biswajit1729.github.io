@@ -8,8 +8,8 @@
    "liveKitURL2":"wss://ot-dev.livekit.cloud",
    "liveKitDisconnectURL":"wss://ot-dev.livekit.cloud",
    "subscription_price":990,
-   "version":"2.5.0",
-   "buildNumber":130,
+   "version":"2.5.1",
+   "buildNumber":131,
    "altPinnedLink":"https://opentalk.club/",
    "emojiUrls":[
       "https://biswajit1729.github.io/emoji/crying.png",
@@ -38,5 +38,5 @@
 
    
    ],
-   "msg": {"url":"https://opentalk.club/","title":"Discover new podcast","description":"Connect with new friends to discover podcasts from your friends and friends of friends."}
+   "msg": {"url":"https://opentalk.club/","title":"new update","description":"Please wait for your friends to update to the latest version in order to view their rooms."}
 }
