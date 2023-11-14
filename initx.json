@@ -26,7 +26,6 @@
       "https://biswajit1729.github.io/emoji/dollar.png",
       "https://biswajit1729.github.io/emoji/anger.png",
       "https://biswajit1729.github.io/emoji/cute.png",
-
       "https://biswajit1729.github.io/emoji/+1.png",
       "https://biswajit1729.github.io/emoji/-1.png",
       "https://biswajit1729.github.io/emoji/heart_eyes.png",
@@ -38,9 +37,9 @@
 
    
    ],
-   "msg": {
+ "msg": {
           "url":"https://play.google.com/store/apps/details?id=com.jeetproductions.opentalk",
           "title":"*** What's New",
-          "description":" ✅ Better suspension system \n ✅ Name change policy once in a week \n ✅ Auto leave problem resolved \n** Please report us if anyone misbehave at contact@opentalk.club"
+          "description":" ** Please report misbehave at contact@opentalk.club\n ✅ Better suspension system \n ✅ Name change policy once in a week \n ✅ Auto leave problem resolved"
         }
 }
