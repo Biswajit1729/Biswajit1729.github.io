@@ -8,8 +8,8 @@
    "liveKitURL2":"wss://ot-dev.livekit.cloud",
    "liveKitDisconnectURL":"wss://ot-dev.livekit.cloud",
    "subscription_price":990,
-   "version":"2.5.5",
-   "buildNumber":132,
+   "version":"2.5.6",
+   "buildNumber":134,
    "altPinnedLink":"https://opentalk.club/",
    "emojiUrls":[
       "https://biswajit1729.github.io/emoji/crying.png",
@@ -37,6 +37,11 @@
 
    
    ],
- "msg": {}
+ "msg": {
+  "url": "https://play.google.com/store/apps/details?id=com.jeetproductions.opentalk",
+  "title": "*** What's New",
+  "description": " ** Please report any misbehavior to contact@opentalk.club\n ✅ Resolved issues with the suspension system \n ✅ Updated podcast policy: If someone engages in inappropriate behavior, kindly email us the person's ID along with a screenshot. We will take necessary action against that individual; simply removing them from the room is not sufficient. If found guilty, they will be expelled from Open Talk."
+}
+
    
 }
