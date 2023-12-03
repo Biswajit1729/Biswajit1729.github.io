@@ -58,7 +58,7 @@
  "feedShowLogicNumbers": {
         "firstStageDaysLimit": 2,
         "secondStageDaysLimit": 7,
-        "firstStageFeedLimit": 1,
+        "firstStageFeedLimit": 3,
         "secondStageFeedLimit": 5
       },   
  "msg": {
