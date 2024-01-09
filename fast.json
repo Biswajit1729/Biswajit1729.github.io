@@ -3,9 +3,9 @@
       "host":"167.71.226.225",
       "port":6378
    },
-   "tokenURL":"https://hellos.opentalk.club",
+   "tokenURL":"https://token.opentalk.club",
    "liveKitURL":"wss://ot-dev.livekit.cloud",
-   "liveKitURL2":"wss://livekits.opentalk.club",
+   "liveKitURL2":"wss://ot-dev.livekit.cloud",
    "liveKitDisconnectURL":"wss://ot-dev.livekit.cloud",
    "subscription_price":990,
    "version":"2.6.0",
@@ -89,5 +89,4 @@
         "firstStageFeedLimit": 2,
         "secondStageFeedLimit": 15
       }
-  
 }
