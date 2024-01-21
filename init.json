@@ -72,7 +72,7 @@
     "https://biswajit1729.github.io/foodEmoji/telephone_receiver.png",
     "https://biswajit1729.github.io/foodEmoji/tulip.png"
   ],
-  "feedPolicy": [500,10,4],
+  "feedPolicy": [500,0,0],
   "feedShowLogicNumbers": {
     "firstStageDaysLimit": 3,
     "secondStageDaysLimit": 7,
