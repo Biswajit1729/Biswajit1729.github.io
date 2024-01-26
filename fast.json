@@ -8,8 +8,8 @@
    "liveKitURL2":"wss://ot-dev.livekit.cloud",
    "liveKitDisconnectURL":"wss://ot-dev.livekit.cloud",
    "subscription_price":990,
-   "version":"2.7.0",
-   "buildNumber":141,
+   "version":"2.7.5",
+   "buildNumber":143,
    "altPinnedLink":"https://opentalk.club/",
    "emojiUrls":[
       "https://biswajit1729.github.io/emoji/crying.png",
