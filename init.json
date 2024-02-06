@@ -4,8 +4,8 @@
     "port": 6380
   },
   "apiUrl": "https://api.opentalk.club",
-  "liveKitURL": "wss://ot-dev.livekit.cloud",
-  "liveKitURL2": "wss://ot-dev.livekit.cloud",
+  "liveKitURL": "wss://livekits.opentalk.club",
+  "liveKitURL2": "wss://livekits.opentalk.club",
   "subscription_price": 990,
   "version": "2.7.5",
   "buildNumber": 143,
