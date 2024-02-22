@@ -74,5 +74,11 @@
   ],
   "eligibilityPolicy": [67,70],
   "feedPolicy": [10,0,65,"Apologize, but only verified premium members or users with over 500 talk minutes, along with a minimum of 10 feedback entries and a rating exceeding 70%, are permitted to create or join a room. This restriction is in place to maintain a positive environment and prevent abusive behavior in our app. We appreciate your understanding and support.", "⦿ Attention: Some listeners in your podcast may not be visible as they can't join the conversation. Please follow our rules for a positive environment."]
+  ,
+  "msg": {
+   "url": "https://play.google.com/store/apps/details?id=com.jeetproductions.opentalk",
+   "title": "What's New ⦿",
+   "description": "Using Glitch to boost talk minutes too much could lead to a permanent account ban.\nToday's update removes the requirement for 500 talk minutes or other account conditions to join. \nHowever, users with poor ratings won't access our features.The update also introduces a new device-level & clone app ban system."
+    }
  
 }
