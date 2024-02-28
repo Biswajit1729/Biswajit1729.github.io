@@ -1,11 +1,11 @@
 {
   "redisURL": {
-    "host": "167.71.226.225",
+    "host": "128.199.18.187",
     "port": 6380
   },
-  "apiUrl": "https://api.opentalk.club",
-  "liveKitURL": "wss://livekits.opentalk.club",
-  "liveKitURL2": "wss://livekits.opentalk.club",
+  "apiUrl": "https://apis.opentalk.club",
+  "liveKitURL": "wss://livekit.opentalk.club",
+  "liveKitURL2": "wss://livekit.opentalk.club",
   "subscription_price": 990,
   "version": "2.8.0",
   "buildNumber": 144,
