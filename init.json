@@ -7,8 +7,8 @@
   "liveKitURL": "wss://livekits.opentalk.club",
   "liveKitURL2": "wss://livekits.opentalk.club",
   "subscription_price": 990,
-  "version": "2.8.0",
-  "buildNumber": 144,
+  "version": "3.5.0",
+  "buildNumber": 153,
   "altPinnedLink": "https://opentalk.club/",
   "emojiUrls": [
     "https://biswajit1729.github.io/emoji/crying.png",
