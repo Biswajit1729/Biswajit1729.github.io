@@ -74,16 +74,17 @@
   ],
   "eligibilityPolicy": [67, 70],
   "feedPolicy": [
-    10,
     0,
-    65,
+    0,
+    0,
     "Apologize, but only verified premium members or users with over 500 talk minutes, along with a minimum of 10 feedback entries and a rating exceeding 70%, are permitted to create or join a room. This restriction is in place to maintain a positive environment and prevent abusive behavior in our app. We appreciate your understanding and support.",
     "⦿ Attention: Some listeners in your podcast may not be visible as they can't join the conversation. Please follow our rules for a positive environment."
-  ],
+  ] ,
   "msg": {
    "url": "https://play.google.com/store/apps/details?id=com.jeetproductions.opentalk",
    "title": "What's New ⦿",
-   "description": "We're removing any extra talk minutes gained through glitches. From now on, if you try to boost your talk minutes or feedback using glitches, your account will be suspended."
+   "description": "📸 Upload a profile picture from your gallery.\n\n🚫 You cannot use any third-party apps within our app, such as cloning or locking apps."
+
     }
 
 
