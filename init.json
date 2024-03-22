@@ -74,7 +74,7 @@
   ],
   "eligibilityPolicy": [67, 70],
   "feedPolicy": [
-    0,
+    1,
     0,
     0,
     "Apologize, but only verified premium members or users with over 500 talk minutes, along with a minimum of 10 feedback entries and a rating exceeding 70%, are permitted to create or join a room. This restriction is in place to maintain a positive environment and prevent abusive behavior in our app. We appreciate your understanding and support.",
