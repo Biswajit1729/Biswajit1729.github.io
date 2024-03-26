@@ -3,9 +3,9 @@
     "host": "167.71.226.225",
     "port": 6380
   },
-  "apiUrl": "https://api.opentalk.club",
-  "liveKitURL": "wss://livekits.opentalk.club",
-  "liveKitURL2": "wss://livekits.opentalk.club",
+  "apiUrl": "https://talk.opentalk.club",
+  "liveKitURL": "wss://ot-dev.livekit.cloud",
+  "liveKitURL2": "wss://ot-dev.livekit.cloud",
   "subscription_price": 990,
   "version": "3.5.0",
   "buildNumber": 153,
