@@ -3,9 +3,9 @@
     "host": "167.71.226.225",
     "port": 6380
   },
-  "apiUrl": "https://api.opentalk.club",
-  "liveKitURL": "wss://livekits.opentalk.club",
-  "liveKitURL2": "wss://livekits.opentalk.club",
+  "apiUrl": "https://talk.opentalk.club",
+  "liveKitURL": "wss://ot-dev.livekit.cloud",
+  "liveKitURL2": "wss://ot-dev.livekit.cloud",
   "subscription_price": 990,
   "version": "3.5.0",
   "buildNumber": 153,
@@ -74,7 +74,7 @@
   ],
   "eligibilityPolicy": [67, 70],
   "feedPolicy": [
-    100,
+    0,
     0,
     0,
     "Apologize, but only verified premium members or users with over 100 talk minutes, along with a minimum of 1 feedback entries and a rating exceeding 60%, are permitted to create or join a room. This restriction is in place to maintain a positive environment and prevent abusive behavior in our app. We appreciate your understanding and support.",
