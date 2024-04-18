@@ -75,8 +75,8 @@
   "eligibilityPolicy": [67, 70],
   "feedPolicy": [
     100,
-    0,
-    0,
+    10,
+    67,
     "Apologize, but only verified premium members or users with over 100 talk minutes, along with a minimum of 1 feedback entries and a rating exceeding 60%, are permitted to create or join a room. This restriction is in place to maintain a positive environment and prevent abusive behavior in our app. We appreciate your understanding and support.",
     "⦿ Attention: Some listeners in your podcast may not be visible as they can't join the conversation. Please follow our rules for a positive environment."
   ] ,
