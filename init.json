@@ -74,8 +74,8 @@
   ],
   "eligibilityPolicy": [67, 70],
   "feedPolicy": [
-    0,
-    0,
+    100,
+    2,
     0,
     "Apologize, but only verified premium members or users with over 100 talk minutes, along with a minimum of 2 feedback entries and a rating exceeding 60%, are permitted to create or join a room. This restriction is in place to maintain a positive environment and prevent abusive behavior in our app. We appreciate your understanding and support.",
     "⦿ Attention: Some listeners in your podcast may not be visible as they can't join the conversation. Please follow our rules for a positive environment."
@@ -84,7 +84,7 @@
 
   "url": "",
   "title": "Notice ***",
-  "description":  "Due to increasing bad behavior in OT pods, we're pausing new OT feeds until we find a solution. You can still create pods and share links with friends. Have suggestions? Email us at contact@opentalk.club. Thanks for your support!"
+  "description":  "We are currently working on a solution, and a new update will be available shortly. Have suggestions? Email us at contact@opentalk.club. Thanks for your support!"
 
   }
 
