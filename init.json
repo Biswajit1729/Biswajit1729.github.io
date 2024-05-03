@@ -4,8 +4,8 @@
     "port": 6380
   },
   "apiUrl": "https://api.opentalk.club",
-  "liveKitURL": "wss://livekits.opentalk.club",
-  "liveKitURL2": "wss://livekits.opentalk.club",
+  "liveKitURL": "wss://ot-dev.livekit.cloud",
+  "liveKitURL2": "wss://ot-dev.livekit.cloud",
   "subscription_price": 990,
   "version": "3.5.1",
   "buildNumber": 154,
@@ -83,8 +83,8 @@
   "msg": { 
 
   "url": "",
-  "title": "Notice ***",
-  "description":  "If any abusive behavior is detected within a pod, the pod creator will be suspended first, followed by the abuser. The pod creator is responsible for maintaining decorum. Have suggestions? Email us at contact@opentalk.club. Thanks for your support!"
+  "title": "Upgrading ***",
+  "description":  "We are currently upgrading the server, and this process may require up to 10 minutes."
 
   }
 
