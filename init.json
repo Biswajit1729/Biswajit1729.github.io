@@ -74,6 +74,7 @@
   ],
   "eligibilityPolicy": [67, 70],
   "feedPolicy": [
+    10,
     0,
     0,
     0,
