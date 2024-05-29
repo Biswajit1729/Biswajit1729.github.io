@@ -77,9 +77,9 @@
     100,
     2,
     70,
-    "Thank you for your interest! Please note that OT Pod creation is a premium feature exclusively available to Premium or Experience Members. Upgrade to premium now to unlock this exclusive feature!",
+    "Thank you for your interest! Please note that OT Pod creation is a premium feature exclusively available to Premium members only. Upgrade to premium now to unlock this exclusive feature!",
     "⦿ Attention: Some listeners in your podcast may not be visible as they can't join the conversation. Please follow our rules for a positive environment.",
-    30
+    60
   ] ,
   
   "msg": { 
