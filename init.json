@@ -80,16 +80,11 @@
     "Thank you for your interest! Please note that OT Pod creation is a premium feature exclusively available to Premium members only. Upgrade to premium now to unlock this exclusive feature!",
     "⦿ Attention: Some listeners in your podcast may not be visible as they can't join the conversation. Please follow our rules for a positive environment.",
     90
-  ] ,
-  
-  "msg": { 
-  
-  "url": "https://sites.google.com/view/opentalktutors/home",
-  "title": "New Update 🚀",
-  "description":  
-  "✅ Easy-to-Use Interface: Enjoy a smoother and more intuitive experience.\n✅ Experts Onboarding: Welcoming new experts to our platform!\n✅ Earn from OT: Discover how you can start earning (click to learn more).\n✅ Theme Customization: Change the theme directly from the side drawer.\n✅ Blue Tick Removed: Ensuring equality by removing the blue tick from profile views.\n✅ New Pricing: Coins are now needed to talk with experts."
+  ],
 
+  "msg": {
+    "url": "https://sites.google.com/view/opentalktutors/home",
+    "title": "New Update 🚀",
+    "description": "✅ Easy-to-Use Interface: Smoother experience.\n✅ Experts Onboarding: New experts!\n✅ Theme Customization: Change from side drawer.\n✅ Blue Tick Removed: Ensuring equality.\n✅ New Pricing: Coins needed to talk with experts."
   }
-
-
 }
