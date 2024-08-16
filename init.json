@@ -5,7 +5,6 @@
   },
   "apiUrl": "https://api.opentalk.club",
   "bunUrl": "http://167.71.226.225:5000",
-
   "liveKitURL": "wss://ot-dev.livekit.cloud",
   "liveKitURL2": "wss://ot-dev.livekit.cloud",
   "subscription_price": 990,
@@ -86,7 +85,7 @@
 
   "msg": {
     "url": "https://opentalk.club/blog.html",
-    "title": "#we_love_ot", 
+    "title": "We_love_ot", 
     "description": "Open Talk is an English learning platform where your time investment leads to language fluency. This fluency boosts your social confidence, enhances your job performance, and helps you achieve your dream job. Join us to transform your future and unlock endless opportunities.\n\nDoes this work for you?"
   }
 }
