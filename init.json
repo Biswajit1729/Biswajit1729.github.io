@@ -8,8 +8,8 @@
   "liveKitURL": "wss://ot-dev.livekit.cloud",
   "liveKitURL2": "wss://ot-dev.livekit.cloud",
   "subscription_price": 990,
-  "version": "4.1.0",
-  "buildNumber": 175,
+  "version": "4.1.2",
+  "buildNumber": 177,
   "altPinnedLink": "https://opentalk.club/",
   "emojiUrls": [
     "https://biswajit1729.github.io/emoji/crying.png",
@@ -86,6 +86,6 @@
   "msg": {
     "url": "https://opentalk.club/blog.html",
     "title": "OT for English Speakers", 
-    "description": "We are aware of the microphone turning off in the background on the latest phones. We’re releasing an update today, and it will be live tomorrow! 🎤🚀"
+    "description": "We are aware of the microphone turning off in the background on the latest phones. We’ve fixed the issue, and the update is live now! 🎤🚀"
   }
 }
