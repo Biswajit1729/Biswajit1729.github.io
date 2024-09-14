@@ -85,7 +85,7 @@
 
   "msg": {
     "url": "https://play.google.com/store/apps/details?id=com.jeetproductions.opentalk",
-    "title": "OT for English Speakers", 
-    "description": "We are aware of the microphone turning off in the background on the latest phones. We’ve fixed the issue, and the update is live now! 🎤🚀"
+    "title": "🚀 New Update for OT!",
+     "description": "- Microphone turning off issue fixed 🎤\n- Added reconnect option in case of connection trouble 🔄\n- Other small bugs fixed 🛠️"
   }
 }
