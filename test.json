@@ -3,7 +3,7 @@
     "host": "redisotx.opentalk.club",
     "port": 6380
   },
-  "apiUrl": "https://api.opentalk.club",
+  "apiUrl": "https://redisotx.opentalk.club:5008",
   "bunUrl": "http://redisotx.opentalk.club:5000",
   "liveKitURL": "wss://btalk.livekit.cloud",
   "subscription_price": 990,
