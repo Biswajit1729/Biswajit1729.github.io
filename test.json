@@ -1,0 +1,17 @@
+{
+  "redisURL": {
+    "host": "redisotx.opentalk.club",
+    "port": 6380
+  },
+  "apiUrl": "https://api.opentalk.club",
+  "bunUrl": "http://redisotx.opentalk.club:5000",
+  "liveKitURL": "wss://btalk.livekit.cloud",
+  "subscription_price": 990,
+  "version": "4.1.2",
+  "buildNumber": 177,
+  "msg": {
+    "url": "https://play.google.com/store/apps/details?id=com.jeetproductions.opentalk",
+    "title": "🔥 Keep Your Streak Alive!",
+    "description": "✨ Practice daily for fluency gains! 📈\n💬 One chat a day can change everything.\n✅ Don’t miss – keep your streak alive! ⬇️"
+}
+}
