@@ -5,7 +5,7 @@
   },
   "apiUrl": "https://api.opentalk.club",
   "bunUrl": "http://redisotx.opentalk.club:5008",
-  "liveKitURL": "wss://livekits.opentalk.club",
+  "liveKitURL": "wss://ot-dev.livekit.cloud",
   "subscription_price": 990,
   "version": "4.1.2",
   "buildNumber": 177,
