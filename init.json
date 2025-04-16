@@ -5,7 +5,7 @@
   },
   "apiUrl": "https://api.opentalk.club",
   "bunUrl": "http://redisotx.opentalk.club:5000",
-  "liveKitURL": "wss://livekits.opentalk.club",
+  "liveKitURL": "wss://livekit.yukkta.in",
   "version": "4.1.4",
   "buildNumber": 179,
   "msg": {
