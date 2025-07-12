@@ -5,7 +5,7 @@
   },
   "apiUrl": "https://api.opentalk.club",
   "bunUrl": "http://redisotx.opentalk.club:5000",
-  "podcast": "http://redisotx.opentalk.club:3069",
+  "podcast": "http://redisotx.opentalk.club:3087",
   "liveKitURL": "wss://livekits.opentalk.club",
   "version": "4.1.4",
   "buildNumber": 179,
