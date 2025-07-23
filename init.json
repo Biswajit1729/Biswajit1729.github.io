@@ -4,8 +4,8 @@
     "port": 6380
   },
   "apiUrl": "https://api.opentalk.club",
-  "bunUrl": "http://redisotx.opentalk.club:5000",
-  "podcast": "http://redisotx.opentalk.club:3087",
+  "bunUrl": "https://bunurl.opentalk.club",
+  "podcast": "https://podcast.opentalk.club",
   "liveKitURL": "wss://livekits.opentalk.club",
   "version": "4.1.4",
   "buildNumber": 179,
