@@ -1,0 +1,13 @@
+{
+  "apiUrl": "https://api.opentalk.club",
+  "bunUrl": "https://bunurl.opentalk.club",
+  "podcast": "https://podcast.opentalk.club",
+  "liveKitURL": "wss://livekits.opentalk.club",
+  "version": "4.1.4",
+  "buildNumber": 179,
+  "msg": {
+    "url": "https://play.google.com/store/apps/details?id=com.jeetproductions.opentalk",
+    "title": "",
+    "description": ""
+  }
+}
