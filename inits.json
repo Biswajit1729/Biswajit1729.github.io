@@ -3,6 +3,7 @@
   "bunUrl": "https://bunurl.opentalk.club",
   "podcast": "https://podcast.opentalk.club",
   "liveKitURL": "wss://livekits.opentalk.club",
+  "useNewPricing": false,
   "version": "4.3.0",
   "buildNumber": 194,
   "msg": {
