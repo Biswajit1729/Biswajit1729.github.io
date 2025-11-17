@@ -4,8 +4,8 @@
   "podcast": "https://podcast.opentalk.club",
   "liveKitURL": "wss://livekits.opentalk.club",
   "useNewPricing": true,
-  "version": "4.3.0",
-  "buildNumber": 194,
+  "version": "5.0.1",
+  "buildNumber": 208,
   "msg": {
     "url": "https://play.google.com/store/apps/details?id=com.jeetproductions.opentalk",
     "title": "",
