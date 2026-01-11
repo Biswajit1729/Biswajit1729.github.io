@@ -10,5 +10,39 @@
     "url": "https://play.google.com/store/apps/details?id=com.jeetproductions.opentalk",
     "title": "",
     "description": ""
+  },
+  "pricingConfig": {
+    "defaultPage": "recurring_options",
+    "allowBackToOneTime": true,
+    "plans": [
+      {
+        "id": "weekly",
+        "name": "1 week",
+        "price": 699,
+        "duration": "1 week",
+        "isRecurring": true,
+        "isRecommended": false
+      },
+      {
+        "id": "monthly",
+        "name": "1 month",
+        "price": 999,
+        "duration": "1 month",
+        "isRecurring": true,
+        "isRecommended": false
+      },
+      {
+        "id": "6month",
+        "name": "6 months",
+        "price": 2999,
+        "duration": "6 months",
+        "isRecurring": true,
+        "isRecommended": true,
+        "perUnitPrice": 115,
+        "perUnitLabel": "/ week",
+        "savingsPercent": 83,
+        "badgeText": "🔥 83% off"
+      }
+    ]
   }
 }
