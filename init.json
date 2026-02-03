@@ -1,7 +1,7 @@
 {
   "apiUrl": "https://api.opentalk.club",
-  "bunUrl": "http://167.71.226.225:5100/",
-  "podcast": "http://167.71.226.225:3187/",
+  "bunUrl": "http://167.71.226.225:5100",
+  "podcast": "http://167.71.226.225:3187",
   "liveKitURL": "wss://livekit.opentalk.club",
   "useNewPricing": true,
   "version": "5.0.1",
