@@ -19,14 +19,6 @@
     "allowBackToOneTime": true,
     "plans": [
       {
-        "id": "weekly",
-        "name": "1 week",
-        "price": 699,
-        "duration": "1 week",
-        "isRecurring": true,
-        "isRecommended": false
-      },
-      {
         "id": "monthly",
         "name": "1 month",
         "price": 999,
