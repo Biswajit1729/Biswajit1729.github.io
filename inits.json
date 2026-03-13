@@ -25,8 +25,6 @@
         "duration": "1 months",
         "isRecurring": true,
         "isRecommended": true,
-        "perUnitPrice": 249,
-        "perUnitLabel": "/ week",
         "savingsPercent": 83,
         "badgeText": "🔥 83% off"
       }
