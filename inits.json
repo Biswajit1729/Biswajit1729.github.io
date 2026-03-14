@@ -29,7 +29,7 @@
       {
         "id": "6month",
         "name": "6 months",
-        "price": 2999,
+        "price": 3999,
         "duration": "6 months",
         "isRecurring": true,
         "isRecommended": true,
