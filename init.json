@@ -4,7 +4,7 @@
   "podcastApiBaseUrl": "https://podcast.opentalk.club",
   "liveKitURL": "wss://livekit.captainairavat.com",
   "version": "5.0.1",
-  "buildNumber": 208,
+  "buildNumber": 209,
   "pricingConfig": {
     "plans": [
       {
