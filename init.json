@@ -8,10 +8,10 @@
   "pricingConfig": {
     "plans": [
       {
-        "id": "45day",
-        "name": "45 days",
-        "price": 1799,
-        "duration": "45 days",
+        "id": "monthly",
+        "name": "1 month",
+        "price": 999,
+        "duration": "1 month",
         "isRecurring": true,
         "isRecommended": false
       },
