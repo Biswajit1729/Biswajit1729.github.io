@@ -8,24 +8,20 @@
   "pricingConfig": {
     "plans": [
       {
+        "id": "weekly",
+        "name": "1 week",
+        "price": 699,
+        "duration": "1 week",
+        "isRecurring": true,
+        "isRecommended": false
+      },
+      {
         "id": "monthly",
         "name": "1 month",
         "price": 999,
         "duration": "1 month",
         "isRecurring": true,
         "isRecommended": false
-      },
-      {
-        "id": "3month",
-        "name": "3 months",
-        "price": 2499,
-        "duration": "3 months",
-        "isRecurring": true,
-        "isRecommended": false,
-        "perUnitPrice": 833,
-        "perUnitLabel": "/ month",
-        "savingsPercent": 31,
-        "badgeText": "31% off"
       },
       {
         "id": "6month",
