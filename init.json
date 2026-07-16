@@ -3,8 +3,8 @@
   "chatApiBaseUrl": "https://msg.opentalk.club/api/chat",
   "podcastApiBaseUrl": "https://podcast.opentalk.club",
   "liveKitURL": "wss://livekit.captainairavat.com",
-  "version": "5.7.3",
-  "buildNumber": 223,
+  "version": "5.8.4",
+  "buildNumber": 224,
   "pricingConfig": {
     "plans": [
       {
